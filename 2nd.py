@@ -1,3 +1,4 @@
-a=50
-b=24
-print('The reminder when the divided is b:',a%b)
+l1=['Shihab', 'Shahriar','Shabbir','pollob']
+for name in l1:
+    if name.startswith("S"):
+          print("Hello " + name)
